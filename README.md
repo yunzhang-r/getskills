@@ -1,2 +1,1 @@
-# getskills
-i dont know@#$
+# getskill
